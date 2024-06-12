@@ -1,6 +1,6 @@
 ### About
 
-Anne Bozack is a postdoctoral fellow in the Division of Environmental Health Sciences in the University of California, Berkeley School of Public Health. Her research focuses on the impact of environmental exposures on the molecular level and effects of nutrition. Her current projects investigate the associations between chronic exposure to metals and DNA methylation. Anne holds a Ph.D. in Environmental Health Sciences and M.P.H. in Sociomedical Sciences from Columbia University, and B.A. degrees in Environmental Science and Architecture from the University of California, Berkeley.
+Anne Bozack is an Instructor in the Department of Epidemiology and Population Health at Stanford University School of Medicine. Her research focuses on molecular mechanisms linking environmental exposures to disease development. Her current projects investigate changes to DNA methylation and epigenetic aging associated with metals and other chemical and non-chemical exposures, both prenatally and across the life course. She uses novel computational approaches to understand the relatinoships between multiple exposures and high-dimentional omics data. Anne holds a PhD in Environmental Health Sciences and MPH in Sociomedical Sciences from Columbia University, and BA degrees in Environmental Science and Architecture from the University of California, Berkeley.
 
 <!--
 **annebozack/annebozack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
